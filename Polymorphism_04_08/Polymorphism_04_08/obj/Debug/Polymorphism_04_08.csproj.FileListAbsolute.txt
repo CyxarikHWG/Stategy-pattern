@@ -1,0 +1,14 @@
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\Praktika\Semestr_2\Polymorphism_04_08\Polymorphism_04_08\bin\Debug\Polymorphism_04_08.exe.config
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\Praktika\Semestr_2\Polymorphism_04_08\Polymorphism_04_08\bin\Debug\Polymorphism_04_08.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\Praktika\Semestr_2\Polymorphism_04_08\Polymorphism_04_08\bin\Debug\Polymorphism_04_08.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\Praktika\Semestr_2\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.csprojAssemblyReference.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\Praktika\Semestr_2\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.csproj.CoreCompileInputs.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\Praktika\Semestr_2\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\Praktika\Semestr_2\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\Polymorphism_04_08\Polymorphism_04_08\bin\Debug\Polymorphism_04_08.exe.config
+C:\Users\cyxar\OneDrive\Рабочий стол\Polymorphism_04_08\Polymorphism_04_08\bin\Debug\Polymorphism_04_08.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\Polymorphism_04_08\Polymorphism_04_08\bin\Debug\Polymorphism_04_08.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.csprojAssemblyReference.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.csproj.CoreCompileInputs.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\Polymorphism_04_08\Polymorphism_04_08\obj\Debug\Polymorphism_04_08.pdb
